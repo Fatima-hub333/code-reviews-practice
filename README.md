@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/GoogleClone-blueviolet)
+![](https://img.shields.io/badge/CodeReview-blueviolet)
 
 # Code-Review
 These are some cod challenges where I gave my code review for practicing my skills and enhance my positive & constructive feedback skills
