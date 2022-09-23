@@ -52,7 +52,7 @@ The following tools help make easier to work with sample code.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Fatima-hub333/Google_clone/issues).
+Feel free to check the [issues page](https://github.com/Fatima-hub333/code-reviews-practice/issues).
 
 ## Show your support
 
